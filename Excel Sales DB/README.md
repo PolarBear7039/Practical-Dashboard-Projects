@@ -3,7 +3,7 @@ Built an interactive Sales Dashboard in Excel using Pivot Tables, Power Query, a
 Purpose:
 To improve sales reporting accuracy and provide managers with dynamic, data-driven insights for decision-making.
 ## Data Used
-- Power BI file: [Excel Sales DB.xlsx](Excel%20Sales%20DB/Excel%20Sales%20DB.xlsx)
+- Excel file: [Excel Sales DB.xlsx](Excel%20Sales%20DB/Excel%20Sales%20DB.xlsx)
 
 ## Screenshots
 ![Screenshot](Excel%20Sales%20DB/Excel%20Sales%20DB.png)
