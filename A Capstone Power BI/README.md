@@ -11,7 +11,7 @@
 ![Screenshot](A%20Capstone%20Power%20BI/A%20Capstone.png)
 
 ## How to Use
-1. Open the Excel/Power BI file.
+1. Open the Power BI file.
 2. Explore the dashboards and reports.
 
 ## Author
